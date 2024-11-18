@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const JumpScareButton = ({ imagePath, soundPath }:any) => {
   const [showJumpScare, setShowJumpScare] = useState(false);
