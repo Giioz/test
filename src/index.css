@@ -1,0 +1,16 @@
+.btn {
+  width: 200px;
+  height: 50px;
+  background-color: rgba(235, 87, 176, 0.772);
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+.div {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  justify-content: center;
+}
